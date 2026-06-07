@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, I'm Luis
 
-<!--
-**WizGonzalez/WizGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Product Designer with 7+ years of experience creating digital products that are accessible, scalable, and user-friendly.
 
-Here are some ideas to get you started:
+These days, I'm learning full-stack development with the MERN stack, following the Full Stack Open curriculum and building personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm really interested in the intersection of design and code, where strong UX, accessibility, systems thinking, and clean implementation come together.
+
+Currently working on:
+- React
+- Node.js
+- Express
+- MongoDB
+- TypeScript
+- Testing
+- Full-stack fundamentals
+
+Learning in public, building consistently, and enjoying the shift from design to design engineering.
